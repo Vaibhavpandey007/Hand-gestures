@@ -69,8 +69,8 @@ This project is licensed under the MIT License.
 
 ## Author
 
-- Tanay Gaur
-- GitHub: [baukk](https://github.com/baukk)
+- Vaibhav Pandey
+
 
 Feel free to contribute to this project and make it even more awesome! If you have any questions or suggestions, please open an issue or pull request.
 
